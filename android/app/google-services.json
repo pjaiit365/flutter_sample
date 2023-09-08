@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "761046008277",
+    "project_id": "petlifegh",
+    "storage_bucket": "petlifegh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761046008277:android:3cb1be1700e13b3f0efd5c",
+        "android_client_info": {
+          "package_name": "com.example.pet_life_gh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761046008277-6i8c3196jjcrdu6d2vd24itopak17dqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrPDsn0soBB9O7q6_j2tzpbFHj9AQ8bZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761046008277-6i8c3196jjcrdu6d2vd24itopak17dqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
